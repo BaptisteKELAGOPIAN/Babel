@@ -1,7 +1,6 @@
 
 ## Babel VoIP Application
 
-![alt text](https://www.zupimages.net/up/23/12/r9nv.png)
 
 Babel est une application de communication vocale en temps réel, basée sur la technologie VoIP (Voice over Internet Protocol). Elle est implémentée en C++ et utilise les bibliothèques AudioPort et Opus pour l'enregistrement et le traitement audio.
 ## Installation
